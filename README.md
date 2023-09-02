@@ -26,6 +26,9 @@ Exemples:
 - Text
 ![](./text.png)
 
+- Full Sample
+
+![](./exemple.png)
 
 This repository contains a noob's side-project, don't expect much.
 
