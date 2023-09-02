@@ -13,7 +13,7 @@ You can find the complete Hex-list [here](https://github.com/PoisonIsBestType/Bl
 Exemples:
 
 Desktop
-![](./exemple.png)
+![](./desktop.png)
 
 Text
 ![](./text.png)
