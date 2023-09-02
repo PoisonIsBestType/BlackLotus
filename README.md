@@ -19,13 +19,11 @@ You can find the complete Hex-list [here](https://github.com/PoisonIsBestType/Bl
 
 Exemples:
 
-Desktop
-
+- Desktop
 ![](./desktop.png)
 
 
-Text
-
+- Text
 ![](./text.png)
 
 
