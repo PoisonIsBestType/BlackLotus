@@ -1,0 +1,17 @@
+# BlackLotus gradient
+
+[color]
+
+; background = default
+; foreground = default
+
+gradient = 1
+gradient_count = 8
+gradient_color_1 = '#2f88ff'
+gradient_color_2 = '#3C81F7'
+gradient_color_3 = '#4F77EB'
+gradient_color_4 = '#616CE0'
+gradient_color_5 = '#6D64D8'
+gradient_color_6 = '#775ED2'
+gradient_color_7 = '#8257CB'
+gradient_color_8 = '#8853c7'

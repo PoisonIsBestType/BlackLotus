@@ -1,0 +1,65 @@
+
+-- Environment
+
+background: 
+    normal: #121212
+    alt: #191919 
+foreground: 
+    normal: #C8C8C8
+    alt: #ABABAB
+accent:
+    blue : #3F6CAD
+    purple : #553976
+    light blue : #2F88FF
+    light purple : #8853C7
+
+-- Text/terminal
+
+normal: 
+    black: #211F21
+    red: #7B3E59
+    green: #798347
+    yellow: #AE9F76
+    blue: #3F6CAD
+    magenta: #553976
+    cyan: #416680
+    white: #ADC4E3    
+bright: 
+    black: #302E31
+    red: #A55377
+    green: #C8CC86
+    yellow: #D9C793
+    blue: #2F88FF
+    magenta: #8853C7
+    cyan: #6DABD6
+    white: #DCEFFF
+
+-- Gradient
+
+8bit: 
+    1: #2F88FF
+    2: #3C81F7
+    3: #4F77EB
+    4: #616CE0
+    5: #6D64D8
+    6: #775ED2
+    7: #8257CB
+    8: #8853C7
+16bit: 
+    1: #2F88FF
+    2: #3684FA
+    3: #3C81F7
+    4: #437EF3
+    5: #497AEF
+    6: #4F77EB
+    7: #5573E7
+    8: #5B70E4
+    9: #616CE0
+    10: #6768DC
+    11: #6D64D8
+    12: #7261D5
+    13: #775ED2
+    14: #7C5BCF
+    15: #8257CB
+    16: #8853C7
+    

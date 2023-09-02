@@ -1,0 +1,75 @@
+# BlackLotus colorbase for Alacritty
+# Note that green and magenta are swaped to trick green-oriented programs/aplications
+
+colors:
+  
+  primary:
+    background: '#121212'
+    foreground: '#c8c8c8'
+    bright_foreground: '#ffffff'
+  cursor:
+    text: CellBackground
+    cursor: CellForeground
+  vi_mode_cursor:
+    text: CellBackground
+    cursor: CellForeground
+  search:
+    matches:
+      foreground: '#191919'
+      background: '#c8cc86'
+    focused_match:
+      foreground: '#191919'
+      background: '#d9c793'
+  footer_bar:
+    background: '#302e31'
+    foreground: '#dcefff'
+  hints:
+    start:
+      foreground: '#302e31'
+      background: '#d9c793'
+    end:
+      foreground: '#d9c793'
+      background: '#302e31'
+  line_indicator:
+    foreground: None
+    background: None
+  selection:
+    text: CellForeground
+    background: '#302e31'
+  normal:
+    black: '#211f21'
+    red: '#7b3e59'
+    green: '#553976'
+    yellow: '#ae9f76'
+    blue: '#3f6cad'
+    magenta: '#798347'
+    cyan: '#416680'
+    white: '#adc4e3'
+  bright:
+    black: '#302e31'
+    red: '#a55377'
+    green: '#8853c7'
+    yellow: '#d9c793'
+    blue: '#2f88ff'
+    magenta: '#c8cc86'
+    cyan: '#6dabd6'
+    white: '#dcefff'
+
+  indexed_colors: #for gradient effects
+    - { index: 20, color: '#2F88FF' }
+    - { index: 21, color: '#2f88ff' }
+    - { index: 22, color: '#3684FA' }
+    - { index: 23, color: '#3C81F7' }
+    - { index: 24, color: '#437EF3' }
+    - { index: 25, color: '#497AEF' }
+    - { index: 26, color: '#4F77EB' }
+    - { index: 27, color: '#5573E7' }
+    - { index: 28, color: '#5B70E4' }
+    - { index: 29, color: '#616CE0' }
+    - { index: 30, color: '#6768DC' }
+    - { index: 31, color: '#6D64D8' }
+    - { index: 32, color: '#7261D5' }
+    - { index: 33, color: '#775ED2' }
+    - { index: 34, color: '#7C5BCF' }
+    - { index: 35, color: '#8257CB' }
+    - { index: 36, color: '#8853c7' }
