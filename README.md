@@ -7,8 +7,8 @@ BlackLotus is a color theme inspired by Christopher Rush's MTG Black Lotus artwo
 
 The main colors are reminescent from the lotus flower itself:
 - reddish-purplish dark gray tones for background
--  yellowish-greenish white tones for the foreground
--  dim and bright blue and purple as accent
+-  yellowish-greenish dim white tones for foreground
+-  dim and bright blue and purple options for accent color
 
 
 All colors were picked from the artwork directly. With just a few exceptions, to build a cohesive palette. 
