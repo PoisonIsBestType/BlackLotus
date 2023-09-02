@@ -1,7 +1,7 @@
-# BlackLotus Color-scheme
+# BlackLotus color scheme
 ![](./cover.png)
 
-Dark, dim, blue/purple oriented... beautiful!
+Dark, dim, blue, purple, beautiful!
 
 BlackLotus is a color theme inspired on the great artwork by the late Christopher Rush, the main colors are reminescent from the lotus flower itself.
 All colors were picked from the artwork directly. With just a few exceptions, to build a cohesive palette. 
