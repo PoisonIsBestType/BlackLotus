@@ -1,5 +1,5 @@
 # BlackLotus 
-###color scheme
+### color scheme
 ![](./cover.png)
 
 Dark, dim, blue, purple, beautiful!
