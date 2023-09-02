@@ -22,11 +22,10 @@ Exemples:
 - Desktop
 ![](./desktop.png)
 
-
 - Text
 ![](./text.png)
 
-- Full Sample
+- Full desktop sample
 
 ![](./exemple.png)
 
