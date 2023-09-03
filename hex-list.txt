@@ -8,10 +8,10 @@ foreground:
     normal: #C8C8C8
     alt: #ABABAB
 accent:
-    blue : #3F6CAD
-    purple : #553976
-    light blue : #2F88FF
-    light purple : #8853C7
+    blue: #3F6CAD
+    purple: #553976
+    light blue: #2F88FF
+    light purple: #8853C7
 
 -- Text/terminal
 
