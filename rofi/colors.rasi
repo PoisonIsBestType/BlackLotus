@@ -2,8 +2,8 @@
  // Main
     background-normal: #121212;
     background-alt: #191919;
-    foreground:-normal: #C8C8C8;
-    foreground:-alt: #ABABAB;
+    foreground-normal: #C8C8C8;
+    foreground-alt: #ABABAB;
     accent-blue : #3F6CAD;
     accent-purple : #553976;
     accent-light-blue : #2F88FF;
