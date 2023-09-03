@@ -4,10 +4,10 @@
     background-alt: #191919;
     foreground-normal: #C8C8C8;
     foreground-alt: #ABABAB;
-    accent-blue : #3F6CAD;
-    accent-purple : #553976;
-    accent-light-blue : #2F88FF;
-    accent-light-purple : #8853C7;
+    accent-blue: #3F6CAD;
+    accent-purple: #553976;
+    accent-light-blue: #2F88FF;
+    accent-light-purple: #8853C7;
 
 // Palette
     normal-black: #211F21;
