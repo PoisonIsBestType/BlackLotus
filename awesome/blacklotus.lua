@@ -3,7 +3,7 @@
     
 return{
     
-    -- Base
+    -- Main
     background = {
         nrm = '#121212',
         alt = '#191919'
@@ -12,8 +12,15 @@ return{
         nrm = '#C8C8C8',
         alt = '#ABABAB'
     },
+    accent = {
+        blue = '#3F6CAD',
+        purple = '#553976',
+        bluebrt = '#2F88FF',
+        purplebrt = '#8853C7'
+    },
 
-    -- Normal
+
+    -- Palette
     normal = {
         black = '#211F21',
         red = '#7B3E59',
@@ -25,7 +32,6 @@ return{
         white = '#ADC4E3'
     },
 
-    -- Bright
     bright = {
         black = '#302E31',
         red = '#A55377',
