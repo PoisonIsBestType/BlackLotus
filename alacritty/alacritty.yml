@@ -39,19 +39,19 @@ colors:
   normal:
     black: '#211f21'
     red: '#7b3e59'
-    green: '#553976'
+    green: '#553976'#magenta
     yellow: '#ae9f76'
     blue: '#3f6cad'
-    magenta: '#798347'
+    magenta: '#798347'#green
     cyan: '#416680'
     white: '#adc4e3'
   bright:
     black: '#302e31'
     red: '#a55377'
-    green: '#8853c7'
+    green: '#8853c7'#magenta
     yellow: '#d9c793'
     blue: '#2f88ff'
-    magenta: '#c8cc86'
+    magenta: '#c8cc86'#green
     cyan: '#6dabd6'
     white: '#dcefff'
 
