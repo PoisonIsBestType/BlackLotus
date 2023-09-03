@@ -55,7 +55,8 @@ colors:
     cyan: '#6dabd6'
     white: '#dcefff'
 
-  indexed_colors: #for gradient effects
+#for gradient effects
+  indexed_colors:
     - { index: 20, color: '#2F88FF' }
     - { index: 21, color: '#2f88ff' }
     - { index: 22, color: '#3684FA' }
