@@ -15,8 +15,8 @@ return{
     accent = {
         blue = '#3F6CAD',
         purple = '#553976',
-        bluebrt = '#2F88FF',
-        purplebrt = '#8853C7'
+        brt_blue = '#2F88FF',
+        brt_purple = '#8853C7'
     },
 
 
