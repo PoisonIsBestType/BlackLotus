@@ -8,10 +8,10 @@ foreground:
     normal: #C8C8C8
     alt: #ABABAB
 accent:
-    blue: #3F6CAD
-    purple: #553976
-    light blue: #2F88FF
-    light purple: #8853C7
+    blue : #3F6CAD
+    purple : #553976
+    light blue : #2F88FF
+    light purple : #8853C7
 
 -- Text/terminal
 
@@ -34,6 +34,28 @@ bright:
     cyan: #6DABD6
     white: #DCEFFF
 
+-- Content grey
+
+content:
+    c1:
+    c2:
+    c3:
+    c1_alt:
+    c2_alt:
+    c3_alt:
+
+-- Supplementary
+
+normal:
+    orange: #CC873F
+    pink: #B65685
+    brown: #473730
+
+bright:
+    orange: #CC9964
+    pink: #CC76A0
+    brown: #896A5D
+
 -- Gradient
 
 8bit: 
@@ -46,7 +68,7 @@ bright:
     7: #8257CB
     8: #8853C7
 16bit: 
-    1: #2F88FF
+    1: OO
     2: #3684FA
     3: #3C81F7
     4: #437EF3
