@@ -1,7 +1,7 @@
 # BlackLotus, a color scheme.
 ![](./cover.png)
 
-Dark, dim, blue, purple, beautiful!
+### Dark, dim, blue, purple, beautiful!
 
 BlackLotus is a color theme inspired by Christopher Rush's MTG Black Lotus artwork.
 
