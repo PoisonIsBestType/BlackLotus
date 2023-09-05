@@ -13,7 +13,7 @@ The main colors are found in the lotus flower itself:
 
 All colors were picked from the artwork directly. With just a few exceptions to build a cohesive palette. 
 
-![](./palette.png)
+![](./palett.png)
 ![](./supplementary_palette.png)
 
 You can find the complete Hex list [here](https://github.com/PoisonIsBestType/BlackLotus/blob/main/hex-list.txt)
