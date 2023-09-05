@@ -16,11 +16,11 @@ All colors were picked from the artwork directly. With just a few exceptions to 
 ![](./palette.png)
 ![](./supplementary_palette.png)
 
-# You can find the complete Hex list [here](https://github.com/PoisonIsBestType/BlackLotus/blob/main/hex-list.txt)
+### You can find the complete Hex list [here](https://github.com/PoisonIsBestType/BlackLotus/blob/main/hex-list.txt)
 
 If you decide to use this color scheme anywhere please consider sending a screenshot to be featured here!
 
-Exemples:
+## Examples:
 
 - Desktop
 ![](./desktop.png)
