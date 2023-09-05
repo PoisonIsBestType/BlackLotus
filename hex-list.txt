@@ -37,12 +37,12 @@ bright:
 -- Content grey
 
 content:
-    c1:
-    c2:
-    c3:
-    c1_alt:
-    c2_alt:
-    c3_alt:
+    c1: #262422
+    c2: #3D3A37
+    c3: #4F4B47
+    c4: #66615C
+    c5: #7D7770
+    c6: #918A83
 
 -- Supplementary
 
@@ -50,7 +50,6 @@ normal:
     orange: #CC873F
     pink: #B65685
     brown: #473730
-
 bright:
     orange: #CC9964
     pink: #CC76A0
@@ -68,7 +67,7 @@ bright:
     7: #8257CB
     8: #8853C7
 16bit: 
-    1: OO
+    1: #2F88FF
     2: #3684FA
     3: #3C81F7
     4: #437EF3
