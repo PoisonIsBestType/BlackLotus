@@ -8,7 +8,7 @@ The main colors are found in the lotus flower itself:
 - reddish/purplish dark gray tones for background
 -  yellowish/greenish dim white tones for foreground
 -  dim or bright blue and purple options for accent color
--  
+  
 All colors were picked from the artwork directly. With just a few exceptions to build a cohesive palette.
 
 ![](./palette.png)
