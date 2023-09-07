@@ -4,7 +4,6 @@
 ### Dark, dim, blue, purple... beautiful!
 
 BlackLotus is a color theme inspired by Christopher Rush's MTG Black Lotus artwork.
-
 The main colors are found in the lotus flower itself:
 - reddish/purplish dark gray tones for background
 -  yellowish/greenish dim white tones for foreground
