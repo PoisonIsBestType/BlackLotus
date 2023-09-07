@@ -20,12 +20,16 @@ All colors were picked from the artwork directly. With just a few exceptions to 
 ## Examples:
 - Desktop
 ![](./desktop.png)
+
 - Ranger
 ![](./ranger.png)
+
 - BpyTOP
 ![](./bpytop.png)
+
 - Text
 ![](./text.png)
+
 - Full desktop sample
 ![](./exemple.png)
 
