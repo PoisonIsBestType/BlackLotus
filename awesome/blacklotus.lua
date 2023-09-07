@@ -1,9 +1,12 @@
-    -- BlackLotus color scheme for AwesomeWM
+    -- BlackLotus colorscheme
 
+    -- Dark, dim and Blue/Purple oriented theme
+    -- Colors picked from Black Lotus artwork by Christopher Rush
+    -- Goes well with Numix-BLACK GTK themes and other darker gray themes
     
 return{
     
-    -- Main
+    -- Base
     background = {
         nrm = '#121212',
         alt = '#191919'
@@ -19,8 +22,7 @@ return{
         brt_purple = '#8853C7'
     },
 
-
-    -- Palette
+    -- Normal
     normal = {
         black = '#211F21',
         red = '#7B3E59',
@@ -32,6 +34,7 @@ return{
         white = '#ADC4E3'
     },
 
+    -- Bright
     bright = {
         black = '#302E31',
         red = '#A55377',

@@ -1,1 +1,2 @@
-## Cava - gradient
+## Cava 
+Accent colors gradient

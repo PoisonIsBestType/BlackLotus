@@ -1,8 +1,41 @@
-# BlackLotus colorbase for Alacritty
-# Note that green and magenta are swaped to trick green-oriented programs/aplications
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+
+
+
+window:
+
+  padding:
+    x: 4
+    y: 4
+
+  opacity: 0.85
+
+  title: Alacritty
+
+  dynamic_title: true
+
+  class:
+    instance: Alacritty
+    general: Alacritty
+
+scrolling:
+  history: 5000
+
+  multiplier: 5
+
+
+font:
+  
+  normal:
+    family: JetBrainsMono Nerd Font 
+    style: Regular
+  size: 5.2
+
+draw_bold_text_with_bright_colors: true
+
 
 colors:
-  
+  # Default colors
   primary:
     background: '#121212'
     foreground: '#c8c8c8'
@@ -39,25 +72,23 @@ colors:
   normal:
     black: '#211f21'
     red: '#7b3e59'
-    green: '#553976'
+    magenta: '#553976'
     yellow: '#ae9f76'
     blue: '#3f6cad'
-    magenta: '#798347'
+    green: '#798347'
     cyan: '#416680'
     white: '#adc4e3'
   bright:
     black: '#302e31'
     red: '#a55377'
-    green: '#8853c7'
+    magenta: '#8853c7'
     yellow: '#d9c793'
     blue: '#2f88ff'
-    magenta: '#c8cc86'
+    green: '#c8cc86'
     cyan: '#6dabd6'
     white: '#dcefff'
 
-#for gradient effects
   indexed_colors:
-    - { index: 20, color: '#2F88FF' }
     - { index: 21, color: '#2f88ff' }
     - { index: 22, color: '#3684FA' }
     - { index: 23, color: '#3C81F7' }
@@ -74,3 +105,11 @@ colors:
     - { index: 34, color: '#7C5BCF' }
     - { index: 35, color: '#8257CB' }
     - { index: 36, color: '#8853c7' }
+
+
+cursor:
+  style:
+    blinking: Always
+  blink_interval: 500
+  blink_timeout: 0
+  unfocused_hollow: true

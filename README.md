@@ -1,36 +1,23 @@
-# BlackLotus, a color scheme.
-![](./cover.png)
+# BlackLotus Color-scheme
+[![](./cover.png)]
 
-### Dark, dim, blue, purple, beautiful!
+Dark, dim, blue/purple oriented... beautiful!
 
-BlackLotus is a color theme inspired by Christopher Rush's MTG Black Lotus artwork.
+BlackLotus is a color theme inspired on the great artwork by the late Christopher Rush, the main colors are reminescent from the lotus flower itself.
+All colors were picked from the artwork directly. With just a few exceptions, to build a cohesive palette. 
 
-The main colors are found in the lotus flower itself:
-- reddish/purplish dark gray tones for background
--  yellowish/greenish dim white tones for foreground
--  dim or bright blue and purple options for accent color
+[![](./palette.png)]
 
+You can find the complete Hex-list [here](https://www.reddit.com/r/unixporn/comments/166sklt/awesome_blacklotus_some_noob_love_for_ya/)
 
-All colors were picked from the artwork directly. With just a few exceptions to build a cohesive palette. 
+Exemples:
 
-![](./palette.png)
-![](./supplementary_palette.png)
+Desktop
+[![](./exemple.png)]
 
-### You can find the complete Hex list [here](https://github.com/PoisonIsBestType/BlackLotus/blob/main/hex-list.txt).
+Text
+[![](./text.png)]
 
-- If you decide to use this color scheme anywhere please consider sending a screenshot to be featured here!
-
-## Examples:
-
-- Desktop
-![](./desktop.png)
-
-- Text
-![](./text.png)
-
-- Full desktop sample
-
-![](./exemple.png)
 
 This repository contains a noob's side-project, don't expect much.
 

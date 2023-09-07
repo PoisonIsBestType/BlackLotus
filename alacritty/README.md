@@ -1,1 +1,2 @@
-## Alacritty (green and magenta are swaped)
+## Alacritty
+Green and Magenta can be swaped to trick green-oriented applications

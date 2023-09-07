@@ -2,12 +2,12 @@
  // Main
     background-normal: #121212;
     background-alt: #191919;
-    foreground-normal: #C8C8C8;
-    foreground-alt: #ABABAB;
-    accent-blue: #3F6CAD;
-    accent-purple: #553976;
-    accent-light-blue: #2F88FF;
-    accent-light-purple: #8853C7;
+    foreground:-normal: #C8C8C8;
+    foreground:-alt: #ABABAB;
+    accent-blue : #3F6CAD;
+    accent-purple : #553976;
+    accent-light-blue : #2F88FF;
+    accent-light-purple : #8853C7;
 
 // Palette
     normal-black: #211F21;
@@ -18,6 +18,9 @@
     normal-magenta: #553976;
     normal-cyan: #416680;
     normal-white: #ADC4E3;
+    normal-orange: #CC873F;
+    normal-pink: #B65685;
+    normal-brown: #473730;
     bright-black: #302E31;
     bright-red: #A55377;
     bright-green: #C8CC86;
@@ -26,4 +29,7 @@
     bright-magenta: #8853C7;
     bright-cyan: #6DABD6;
     bright-white: #DCEFFF;
+    bright-orange: #CC9964;
+    bright-pink: #CC76A0;
+    bright-brown: #896A5D;
 }
