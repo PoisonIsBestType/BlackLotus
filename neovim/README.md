@@ -1,5 +1,5 @@
-## NeoVIM
-# Colorscheme applied by `kylfp`
+# NeoVIM
+## Colorscheme applied by `kylfp`
 
 To use the theme TJ Devries Colorbuddy plugin must be installed. Link included below. Users just add colorbuddy.lua to config and the plugin will do the rest.
 
