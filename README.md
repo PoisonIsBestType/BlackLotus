@@ -36,11 +36,15 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 
 - A few wallpaper exemples
 
-![](./background/blacklotus-lotus.png)
 ![](./background/blacklotus-mint.png)
 ![](./background/blacklotus-arch.png)
+![](./background/blacklotus-endeavour.png.png)
 ![](./background/blacklotus-fedora.png)
 ![](./background/blacklotus-debian.png)
+![](./background/blacklotus-manjaro.png)
+![](./background/blacklotus-gentoo.png)
+![](./background/blacklotus-pop.png)
+![](./background/blacklotus-ubuntu.png)
 
 - Full desktop sample
 
