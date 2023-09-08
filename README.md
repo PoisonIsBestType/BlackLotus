@@ -34,6 +34,14 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 
 ![](./text.png)
 
+- A few wallpaper exemples
+
+![](./background/blacklotus-lotus.png)
+![](./background/blacklotus-mint.png)
+![](./background/blacklotus-arch.png)
+![](./background/blacklotus-fedora.png)
+![](./background/blacklotus-debian.png)
+
 - Full desktop sample
 
 ![](./exemple.png)
