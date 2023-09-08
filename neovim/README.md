@@ -1,7 +1,7 @@
 # NeoVIM
 ## Colorscheme applied by `kylfp`
 
-To use the theme `TJ Devries` [Colorbuddy](https://github.com/tjdevries/colorbuddy.nvim) plugin must be installed. Users just add colorbuddy.lua to config and the plugin will do the rest.
+To use the theme `TJ Devries`'s [Colorbuddy](https://github.com/tjdevries/colorbuddy.nvim) plugin must be installed. Users just add colorbuddy.lua to config and the plugin will do the rest.
 
 Notes:
 
