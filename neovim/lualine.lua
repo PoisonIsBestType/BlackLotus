@@ -30,7 +30,8 @@ local colors  = {
     dark_white = '#afc4e3',
 }
 
-local function arch()
+-- Add Symbol For Your Distro Here
+local function distro()
     return [[󰣇 ]]
 end
 
@@ -88,7 +89,7 @@ require('lualine').setup {
         lualine_a = {'mode'},
         lualine_b = {'branch'},
         lualine_c = {'filename'},
-        lualine_x = {'searchcount', 'diagnostics', 'filetype', { arch } },
+        lualine_x = {'searchcount', 'diagnostics', 'filetype', { distro } },
         lualine_y = {'progress'},
         lualine_z = {'location'}
     },
