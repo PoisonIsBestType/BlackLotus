@@ -1,4 +1,4 @@
-# BlackLotus, a color scheme.
+7# BlackLotus, a color scheme.
 ![](./cover.png)
 
 ### Dark, dim, blue, purple... beautiful!
@@ -34,7 +34,7 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 
 ![](./text.png)
 
-- A few wallpaper exemples
+- Backgrounds
 
 ![](./background/blacklotus-mint.png)
 ![](./background/blacklotus-arch.png)
@@ -45,10 +45,11 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 ![](./background/blacklotus-gentoo.png)
 ![](./background/blacklotus-pop.png)
 ![](./background/blacklotus-ubuntu.png)
+![](./background/stripe.png)
+![](./background/blacklotus-lotus.png)
+![](./background/blacklotus.png)
 
-- Full desktop sample
 
-![](./exemple.png)
 
 
 
