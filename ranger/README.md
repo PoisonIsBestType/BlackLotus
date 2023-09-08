@@ -1,2 +1,2 @@
 ## Ranger 
-(presumes terminal emulator already using BlackLotus colors)
+(presumes terminal emulator is already using BlackLotus colors)
