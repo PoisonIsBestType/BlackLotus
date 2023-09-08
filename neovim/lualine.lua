@@ -100,17 +100,7 @@ require('lualine').setup {
         lualine_y = {},
         lualine_z = {}
     },
-    tabline = {
-        lualine_c = {
-            {
-                'buffers',
-                mode = 2,
-                symbols = {
-                    modified = ''
-                }
-            }
-        }
-    },
+    tabline = {},
     winbar = {},
     inactive_winbar = {},
     extensions = {}
