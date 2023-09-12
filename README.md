@@ -44,6 +44,7 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 ![](./background/blacklotus-endeavour.png.png)
 ![](./background/blacklotus-fedora.png)
 ![](./background/blacklotus-debian.png)
+![](./background/blacklotus-endeavour.png)
 ![](./background/blacklotus-manjaro.png)
 ![](./background/blacklotus-gentoo.png)
 ![](./background/blacklotus-pop.png)
