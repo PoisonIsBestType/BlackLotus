@@ -36,8 +36,11 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 
 - Backgrounds
 
+![](./background/blacklotus-lotus.png)
 ![](./background/blacklotus-mint.png)
+![](./background/blacklotus-tumbleweed.png)
 ![](./background/blacklotus-arch.png)
+![](./background/blacklotus-opensuse.png)
 ![](./background/blacklotus-endeavour.png.png)
 ![](./background/blacklotus-fedora.png)
 ![](./background/blacklotus-debian.png)
@@ -46,7 +49,6 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 ![](./background/blacklotus-pop.png)
 ![](./background/blacklotus-ubuntu.png)
 ![](./background/stripe.png)
-![](./background/blacklotus-lotus.png)
 ![](./background/blacklotus.png)
 
 
