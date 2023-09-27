@@ -1,7 +1,6 @@
 <h1 align="center"> BlackLotus,
 
-a colorscheme. </h1>
-
+<i>a colorscheme. </h1>
 
 ![](./cover.png)
 
