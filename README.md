@@ -40,12 +40,12 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 - ShakeyAZ (as seen on [Reddit](https://reddit.com/r/unixporn/s/6KRMk44m0q))
 ![](./screenshot-by-ShakeyAZ.jpg)
 
-
+_______
 
 <details>
-<summary><i>
+<summary><b>
 Backgrounds 
-</i></summary>
+</b></summary>
 <img src="background/blacklotus-lotus.png">
 <img src="background/blacklotus-mint.png">
 <img src="background/blacklotus-tumbleweed.png">
@@ -69,6 +69,8 @@ Backgrounds
 <img src="background/stripe.png">
 
 </details>
+
+_______
 
 
 
