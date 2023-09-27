@@ -54,7 +54,6 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 ![](./background/blacklotus-gentoo.png)
 ![](./background/blacklotus-ubuntu.png)
 ![](./background/stripe.png)
-![](./background/blacklotus.png)
 
 
 
