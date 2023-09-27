@@ -34,8 +34,13 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 
 ![](./text.png)
 
-## Screenshots
+<details>
+<summary><i>
+Screenshots
+</i></summary>
 - ShakeyAZ (as seen on [Reddit](https://reddit.com/r/unixporn/s/6KRMk44m0q))
+</details>
+
 
 ![](./screenshot-by-ShakeyAZ.jpg)
 
