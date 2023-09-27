@@ -39,10 +39,11 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 Screenshots
 </i></summary>
 - ShakeyAZ (as seen on [Reddit](https://reddit.com/r/unixporn/s/6KRMk44m0q))
+![](./screenshot-by-ShakeyAZ.jpg)
 </details>
 
 
-![](./screenshot-by-ShakeyAZ.jpg)
+
 
 
 ## Backgrounds
