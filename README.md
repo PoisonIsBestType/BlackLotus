@@ -1,6 +1,8 @@
 # BlackLotus, a color scheme.
 ![](./cover.png)
 
+_______
+
 ### Dark, dim, blue, purple... beautiful!
 
 BlackLotus is a color theme inspired by Christopher Rush's MTG Black Lotus artwork.
@@ -14,8 +16,12 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 ![](./palette.png)
 ![](./supplementary_palette.png)
 
+_______
+
 ### You can find the complete Hex list [here](https://github.com/PoisonIsBestType/BlackLotus/blob/main/hex-list.txt).
 - If you decide to apply this color scheme anywhere please consider sending us a screenshot to be featured here!
+
+_______
 
 ## Examples:
 - Desktop
@@ -34,6 +40,7 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 
 ![](./text.png)
 
+_______
 
 ## Screenshots
 
