@@ -1,4 +1,7 @@
-# BlackLotus, a color scheme.
+<h1 align="center">BlackLotus</h1>
+
+<p align="center">
+    <i>a colorscheme.
 ![](./cover.png)
 
 _______
