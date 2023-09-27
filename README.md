@@ -41,7 +41,8 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 ![](./screenshot-by-ShakeyAZ.jpg)
 
 
-## <details>
+
+<details>
 <summary><i>
 Backgrounds 
 </i></summary>
