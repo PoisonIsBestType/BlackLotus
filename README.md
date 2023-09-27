@@ -2,6 +2,7 @@
 <p align="center">
     <i>a colorscheme.
 </p>
+
 ![](./cover.png)
 
 _______
