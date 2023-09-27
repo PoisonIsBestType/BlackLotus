@@ -41,7 +41,7 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 ![](./screenshot-by-ShakeyAZ.jpg)
 
 
-<details>
+## <details>
 <summary><i>
 Backgrounds 
 </i></summary>
@@ -65,26 +65,11 @@ Backgrounds
 <img src="background/blacklotus-pop.png">
 <img src="background/blacklotus-ubuntu.png">
 <img src="background/blacklotus-void.png">
-<img src="background/stripe">
+<img src="background/stripe.png">
 
 </details>
 
 
-
-## Backgrounds
-
-![](./background/blacklotus-lotus.png)
-![](./background/blacklotus-mint.png)
-![](./background/blacklotus-tumbleweed.png)
-![](./background/blacklotus-arch.png)
-![](./background/blacklotus-opensuse.png)
-![](./background/blacklotus-endeavour.png)
-![](./background/blacklotus-fedora.png)
-![](./background/blacklotus-debian.png)
-![](./background/blacklotus-manjaro.png)
-![](./background/blacklotus-gentoo.png)
-![](./background/blacklotus-ubuntu.png)
-![](./background/stripe.png)
 
 
 
