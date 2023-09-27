@@ -51,6 +51,9 @@ _______
 - ShakeyAZ (as seen on [Reddit](https://reddit.com/r/unixporn/s/6KRMk44m0q))
 ![](./screenshot-by-ShakeyAZ.jpg)
 
+- Android
+![](./screenshot-android.jpg)
+
 _______
 
 <details>
