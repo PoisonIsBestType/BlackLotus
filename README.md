@@ -40,6 +40,10 @@ _______
 
 ![](./bpytop.png)
 
+- Rofi
+
+![](./rofi.png)
+
 - Text
 
 ![](./text.png)
