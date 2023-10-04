@@ -52,6 +52,9 @@ _______
 
 ## Screenshots
 
+- almeidaromim (as seen on [Reddit](https://www.reddit.com/r/unixporn/comments/16xintv/awesomewm_blacklotus/))
+![](./blacklotus.png)
+
 - ShakeyAZ (as seen on [Reddit](https://reddit.com/r/unixporn/s/6KRMk44m0q))
 ![](./screenshot-by-ShakeyAZ.jpg)
 
