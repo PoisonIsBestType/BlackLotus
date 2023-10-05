@@ -1,12 +1,12 @@
-<h1 align="center"> BlackLotus,
+<h1 align="center"> BlackLotus,</h1>
 
-<i>a colorscheme.</i> </h1>
+<p align="center"><i>a colorscheme.</i> </p>
 
 ![](./cover.png)
 
 _______
 
-### Dark, dim, blue, purple... beautiful!
+<h3 align="center"> Dark, dim, blue, purple... beautiful!</h3>
 
 BlackLotus is a color theme inspired by Christopher Rush's MTG Black Lotus artwork.
 The main colors are found in the lotus flower itself:
