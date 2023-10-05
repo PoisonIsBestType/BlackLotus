@@ -42,7 +42,7 @@ _______
 
 <p align="center">Ranger </p>
 
-<img src="ranger.png">
+<img src="ranger.png" align="center">
 
 
 <p align="center">BpyTOP </p>
