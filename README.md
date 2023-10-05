@@ -37,7 +37,7 @@ _______
   
 <p align="center">Desktop </p>
 
-<img src="desktop.png">
+<img src="desktop.png" align="center">
 
 
 <p align="center">Ranger </p>
