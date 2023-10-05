@@ -60,46 +60,42 @@ _______
 </details>
 
 
-
-## Examples:
-- Desktop
-
-![](./desktop.png)
-
-- Ranger
-
-![](./ranger.png)
-
-- BpyTOP
-
-![](./bpytop.png)
-
-- Rofi
-
-![](./rofi.png)
-
-- Text
-
-![](./text.png)
-
 _______
 
-## Screenshots
+<h2 align="center">📷 SCREENSHOTS 📷</h2>
 
-- almeidaromim (as seen on [Reddit](https://www.reddit.com/r/unixporn/comments/16xintv/awesomewm_blacklotus/))
-![](./blacklotus.png)
-
-- ShakeyAZ (as seen on [Reddit](https://reddit.com/r/unixporn/s/6KRMk44m0q))
-![](./screenshot-by-ShakeyAZ.jpg)
-
-- Android
-![](./screenshot-android.jpg)
-
-_______
-
-<details>
+ <details>
 <summary><b>
-Backgrounds 
+Click here 
+</b></summary>
+  
+_______
+  
+<p align="center">almeidaromim (as seen on <a href="https://www.reddit.com/r/unixporn/comments/16xintv/awesomewm_blacklotus/">Redit</a>) </p>
+
+<img src="blacklotus.png">
+
+<p align="center">ShakeyAZ (as seen on <a href="https://reddit.com/r/unixporn/s/6KRMk44m0q">Redit</a>) </p>
+
+<img src="screenshot-by-ShakeyAZ.jpg">
+
+<p align="center">Android </p>
+
+<img src="screenshot-android.jpg">
+
+
+
+
+</details>
+
+
+_______
+
+<h3 align="center">📷 BACKGROUNDS 📷</h3>
+
+ <details>
+<summary><b>
+Click here 
 </b></summary>
 <img src="background/blacklotus-lotus.png">
 <img src="background/blacklotus-mint.png">
