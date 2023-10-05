@@ -137,4 +137,4 @@ _______
 
 
 This repository contains a noob's side-project, don't expect much.
-### Have a good one!
+<p align="center">Have a good one</p>
