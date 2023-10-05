@@ -128,13 +128,8 @@ Click here
 
 </details>
 
+
 _______
 
-
-
-
-
-
-
-This repository contains a noob's side-project, don't expect much.
-<p align="center">Have a good one</p>
+<p align="center">This repository contains a noob's side-project, don't expect much.
+Have a good one!</p>
