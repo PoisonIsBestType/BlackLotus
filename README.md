@@ -37,12 +37,12 @@ _______
   
 <p align="center">Desktop </p>
 
-<img src="desktop.png" align="center">
+<img src="desktop.png">
 
 
 <p align="center">Ranger </p>
 
-<img src="ranger.png" align="center">
+<img src="ranger.png">
 
 
 <p align="center">BpyTOP </p>
