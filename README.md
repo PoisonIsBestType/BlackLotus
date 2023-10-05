@@ -21,7 +21,7 @@ All colors were picked from the artwork directly, with just a few exceptions to 
 
 _______
 
-<h3 align="center">You can find the complete Hex list <i>[here](https://github.com/PoisonIsBestType/BlackLotus/blob/main/hex-list.txt).</h3> 
+<h3 align="center">You can find the complete Hex list <i><a href="https://github.com/PoisonIsBestType/BlackLotus/blob/main/hex-list.txt">HERE</a></h3> 
 If you decide to apply this color scheme anywhere please consider sending us a screenshot to be featured here!</i>
 
 _______
