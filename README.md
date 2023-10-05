@@ -39,17 +39,21 @@ _______
 
 <img src="desktop.png">
 
+
 <p align="center">Ranger </p>
 
 <img src="ranger.png">
+
 
 <p align="center">BpyTOP </p>
 
 <img src="bpytop.png">
 
+
 <p align="center">Rofi </p>
 
 <img src="rofi.png">
+
 
 <p align="center">Text </p>
 
