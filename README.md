@@ -122,7 +122,7 @@ Click here
 <img src="background/blacklotus-pop.png">
 <img src="background/blacklotus-ubuntu.png">
 <img src="background/blacklotus-void.png">
-<img src="background/stripe.png">
+<img src="background/blacklotus-stripe.png">
 
 </details>
 
