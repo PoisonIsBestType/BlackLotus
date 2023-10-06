@@ -9,17 +9,18 @@ return{
     -- Base
     background = {
         nrm = '#121212',
-        alt = '#191919'
+        alt = '#191919',
+        fcs = '#302E31'
     },
     foreground = {
         nrm = '#C8C8C8',
         alt = '#ABABAB'
     },
     accent = {
-        blue = '#3F6CAD',
-        purple = '#553976',
-        brt_blue = '#2F88FF',
-        brt_purple = '#8853C7'
+        nrm = '#3F6CAD', --blue
+        alt = '#553976', --purple
+        brt_nrm = '#2F88FF', -- bright blue
+        brt_alt = '#8853C7' -- bright purple
     },
 
     -- Normal
@@ -31,7 +32,10 @@ return{
         blue = '#3F6CAD',
         magenta = '#553976',
         cyan = '#416680',
-        white = '#ADC4E3'
+        white = '#ADC4E3',
+        orange = '#CC873F',
+        pink = '#B65685',
+        brown = '#473730'
     },
 
     -- Bright
@@ -43,8 +47,23 @@ return{
         blue = '#2F88FF',
         magenta = '#8853C7',
         cyan = '#6DABD6',
-        white = '#DCEFFF'
+        white = '#DCEFFF',
+        orange = '#CC9964',
+        pink = '#CC76A0',
+        brown = '#896A5D'
     },
+
+    -- Content grey
+
+    content = {
+        c1 = '#262422',
+        c2 = '#3D3A37',
+        c3 = '#4F4B47',
+        c4 = '#66615C',
+        c5 = '#7D7770',
+        c6 = '#918A83'
+    },
+
 
     -- Gradient 8
     grad8 = {
