@@ -10,8 +10,8 @@ foreground:
 accent:
     blue : #3F6CAD
     purple : #553976
-    light blue : #2F88FF
-    light purple : #8853C7
+    bright blue : #2F88FF
+    bright purple : #8853C7
 
 -- Text/terminal
 
