@@ -4,6 +4,7 @@
 background: 
     normal: #121212
     alt: #191919 
+    focus: #302E31
 foreground: 
     normal: #C8C8C8
     alt: #ABABAB
