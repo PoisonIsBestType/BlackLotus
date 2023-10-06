@@ -34,11 +34,11 @@ class Blacklotus(ColorScheme):
                 fg = default
                 bg = red
             if context.border:
-                fg = magenta
+                fg = blue
                 fg += BRIGHT
             if context.media:
                 if context.image:
-                    fg = magenta
+                    fg = blue
                     fg += BRIGHT
                 else:
                     fg = magenta
@@ -48,7 +48,7 @@ class Blacklotus(ColorScheme):
             if context.directory:
                 fg = default
                 if context.selected:
-                    fg = blue
+                    fg = magenta
                     bg = black
             elif context.executable and not \
                     any((context.media, context.container,
